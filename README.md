@@ -3,7 +3,7 @@
   
 <h3 align="left">Something about me:</h3>
 
-- Junior fullstack developer (learning new things everyday)
+- Junior+/medior fullstack developer (learning new things everyday)
 
 - Need for Speed Enthusiast
 
